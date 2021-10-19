@@ -1,0 +1,10 @@
+name: ttpy-playground
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - cython
+  - pip
+  - pip:
+    - ttpy
