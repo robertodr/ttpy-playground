@@ -4,6 +4,7 @@ channels:
 dependencies:
   - c-compiler
   - fortran-compiler
+  - libblas * *mkl
   - python
   - numpy
   - cython
