@@ -9,5 +9,6 @@ dependencies:
   - numpy
   - cython
   - pip
+  - matplotlib
   - pip:
     - ttpy
